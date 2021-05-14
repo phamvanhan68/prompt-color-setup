@@ -1,4 +1,4 @@
-##  This set-up only work for ubuntu!!!
+##  This set-up only works for ubuntu!!!
 
 **Source**
 
